@@ -81,6 +81,7 @@ audio,
 video {
   margin: 0;
   padding: 0;
+  background-color: rgb(4, 133, 176);
 }
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 * {
